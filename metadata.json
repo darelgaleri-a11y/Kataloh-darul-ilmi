@@ -1,0 +1,6 @@
+{
+  "name": "Katalog Pondok",
+  "description": "Aplikasi katalog dan manajemen produk modern karya santri & unit usaha pondok pesantren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
